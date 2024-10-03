@@ -1,0 +1,14 @@
+C:\Users\Kubra\source\repos\homework\tak\tak\obj\Debug\net8.0\tak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubra\source\repos\homework\tak\tak\obj\Debug\net8.0\tak.AssemblyInfoInputs.cache
+C:\Users\Kubra\source\repos\homework\tak\tak\obj\Debug\net8.0\tak.AssemblyInfo.cs
+C:\Users\Kubra\source\repos\homework\tak\tak\obj\Debug\net8.0\tak.csproj.CoreCompileInputs.cache
+C:\Users\Kubra\source\repos\homework\tak\tak\bin\Debug\net8.0\tak.exe
+C:\Users\Kubra\source\repos\homework\tak\tak\bin\Debug\net8.0\tak.deps.json
+C:\Users\Kubra\source\repos\homework\tak\tak\bin\Debug\net8.0\tak.runtimeconfig.json
+C:\Users\Kubra\source\repos\homework\tak\tak\bin\Debug\net8.0\tak.dll
+C:\Users\Kubra\source\repos\homework\tak\tak\bin\Debug\net8.0\tak.pdb
+C:\Users\Kubra\source\repos\homework\tak\tak\obj\Debug\net8.0\tak.dll
+C:\Users\Kubra\source\repos\homework\tak\tak\obj\Debug\net8.0\refint\tak.dll
+C:\Users\Kubra\source\repos\homework\tak\tak\obj\Debug\net8.0\tak.pdb
+C:\Users\Kubra\source\repos\homework\tak\tak\obj\Debug\net8.0\tak.genruntimeconfig.cache
+C:\Users\Kubra\source\repos\homework\tak\tak\obj\Debug\net8.0\ref\tak.dll
